@@ -3,7 +3,8 @@
 /**
  * check_cycle - checks if a linked lst consist of a cycle
  * @list: linked lst to check
- * Return: 1 if the lst has a cycle, 0 if not.
+ *
+ * Return: 1 if the lst has a cycle, 0 if there is no cycle 
  */
 int check_cycle(listint_t *list)
 {
